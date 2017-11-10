@@ -1,0 +1,67 @@
+*{
+	font-family: helvetica;
+}
+
+.precio{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.obtener{
+	font-weight: bold;
+	font-size: 14px;
+	color: green;
+}
+
+.texto{
+	color: gray;
+	font-size: 14px;
+}
+
+h3{
+	font-weight: bold;
+}
+
+.plan{
+	margin-bottom:20px; 
+}
+
+.plan1{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.col-md-6 hr.chico {
+	width: 20%;
+}
+
+.carousel-inner{
+	max-height: 500px;
+	overflow: hidden;
+}
+
+/*#luna{
+	margin-left:500px;
+}*/
+
+
+/*@media (min-width: 576px) {
+	hr .grande{
+     	width: 100%;
+   }
+}
+
+@media (min-width: 768px) {
+   hr{
+       display: none !important;
+       width: 20%;
+   }
+}
+
+@media (min-width: 992px) {
+    
+}
+
+@media (min-width: 1200px) {
+   
+}
